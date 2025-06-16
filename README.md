@@ -1,5 +1,7 @@
 Calculadora Simples em Next.js
+
 Uma calculadora simples construída com Next.js e React, utilizando TypeScript e Tailwind CSS. Este projeto implementa operações matemáticas básicas (soma, subtração, multiplicação e divisão) com uma interface amigável e responsiva.
+
 ![image](https://github.com/user-attachments/assets/1093004a-0b23-4b75-87f9-93d60eafa3c5)
 
 
