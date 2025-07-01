@@ -1,6 +1,6 @@
 # 🖩 Calculadora Simples em Next.js
 
-Uma calculadora simples construída com Next.js e React, utilizando TypeScript e Tailwind CSS. Este projeto implementa operações matemáticas básicas com uma interface amigável e responsiva.
+Uma calculadora simples construída com Next.js, utilizando TypeScript e Tailwind CSS. Este projeto implementa operações matemáticas básicas com uma interface amigável e responsiva.
 
 ## ✨ Tecnologias Utilizadas
 
